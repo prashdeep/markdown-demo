@@ -32,9 +32,9 @@ dumnytext dumnytext dumnytext dumnytext dumnytext dumnytext dumnytext dumnytext
 ### Ordered List
 
 1. Step 1
-2. Step 2
-3. Step 3
-4. Step 4
+1. Step 2
+1. Step 3
+1. Step 4
 
 
 
