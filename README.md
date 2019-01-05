@@ -19,4 +19,10 @@ dumnytext dumnytext dumnytext dumnytext dumnytext dumnytext dumnytext dumnytext
 dumnytext dumnytext dumnytext dumnytext dumnytext dumnytext dumnytext dumnytext
 dumnytext dumnytext dumnytext dumnytext dumnytext dumnytext dumnytext dumnytext
 
+```
+   npm install -g jsdoc
+```   
+
+
+
 
