@@ -5,8 +5,8 @@ dumnytext dumnytext dumnytext dumnytext dumnytext dumnytext dumnytext dumnytext
 Heading 1
 ==========
 
-dumnytext dumnytext dumnytext dumnytext dumnytext dumnytext dumnytext dumnytext
-dumnytext dumnytext dumnytext dumnytext dumnytext dumnytext dumnytext dumnytext
+dumnytext *italic* dumnytext dumnytext dumnytext dumnytext dumnytext dumnytext
+dumnytext dumnytext **bold** dumnytext dumnytext dumnytext dumnytext dumnytext
 
 Heading 2
 -----------
