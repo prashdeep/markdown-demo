@@ -23,6 +23,11 @@ dumnytext dumnytext dumnytext dumnytext dumnytext dumnytext dumnytext dumnytext
    npm install -g jsdoc
    npm install -g @angular/cli
 ```   
+### Steps to install
+* step 1
+* step 2
+* step 3
+* step 4
 
 
 
